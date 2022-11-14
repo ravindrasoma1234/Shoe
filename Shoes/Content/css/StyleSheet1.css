@@ -1,0 +1,30 @@
+﻿.images{
+    height: 100%;
+    width: 100%
+}
+.logo{
+   height:10%;
+   width:10%;
+   background-color : transparent;
+   padding:0;
+   margin:0;
+}
+
+.navbar-brand {
+    padding: 0;
+    margin: 0;
+}
+
+nav{
+    background-color:transparent;
+}
+
+
+.bg img{
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    height:100px;
+    
+}
